@@ -7,7 +7,7 @@
 <body>
 <h1 align="center">Hi 👋, I'm Royston DAlmeida</h1>
 <h3 align="center">👨‍💻 Aspiring Full-Stack Developer</h3>
-<hr/>
+
 <p align="left">
     <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" 
          width="400" 
