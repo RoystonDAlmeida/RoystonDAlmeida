@@ -17,14 +17,17 @@
 
 - 🔭 I’m currently working on **NextJS | AngularJS**
 
-- 🌱 I’m currently learning **VueJS**
+- 🌱 I’m currently learning **Google Cloud Platform(GCP)**
 
 - 🤝 I’m looking for help with **Data Engineering**
 
 <div style="display: flex; align-items: center; justify-content: flex-start;">
     <h3 align="left">Connect with me:</h3>
     <p align="left" style="margin-left:5px;">
-        <a href="https://linkedin.com/in/royston-d-almeida" target="blank">
+        <a href="https://roystondalmeida.netlify.app/" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/netlify--profile?style=for-the-badge&logo=netlify&logoColor=white&color=%2300C7B7" alt="netlify" />
+        </a>
+        <a href="https://linkedin.com/in/royston-d-almeida" target="_blank" rel="noopener noreferrer" style="margin-left:5px;">
             <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
         </a>
     </p>
