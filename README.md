@@ -27,7 +27,7 @@
         <a href="https://roystondalmeida.netlify.app/" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/netlify--profile?style=for-the-badge&logo=netlify&logoColor=white&color=%2300C7B7" alt="netlify" />
         </a>
-        <a href="https://linkedin.com/in/royston-d-almeida" target="_blank" rel="noopener noreferrer" style="margin-left:5px;">
+        <a href="https://linkedin.com/in/royston-d-almeida" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
             <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
         </a>
     </p>
